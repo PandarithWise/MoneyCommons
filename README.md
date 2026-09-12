@@ -10,7 +10,7 @@ A free, open-source financial education community helping people learn about sav
 
 Not everyone was taught how money works.
 
-MoneyCommons is being built to make financial education easier to understand and accessible to everyone — without paywalls, expensive courses or complicated financial jargon.
+MoneyCommons is being built to make financial education easier to understand and accessible to everyone without paywalls, expensive courses or complicated financial jargon.
 
 The goal is simple:
 
