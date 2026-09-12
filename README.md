@@ -101,3 +101,22 @@ Always do your own research and consider speaking with a qualified professional 
 
 
 **Thank you for helping keep MoneyCommons free and open source. 💚🐼**
+
+
+---
+
+## 🚀 Start Here
+
+### 💳 Your first step: understand your money
+
+Ready to get started?
+
+**[👉 Open the MoneyCommons Debt-Free Tracker](https://pandarithwise.github.io/MoneyCommons/)**
+
+A simple, practical way to see where your money goes, understand your spending, map your debt and discover what you could change.
+
+> **Track → Understand → Change → Become Debt-Free → Build → Invest**
+
+No account required. No complicated setup. Just start learning about your own money. 🐼💚
+
+---
