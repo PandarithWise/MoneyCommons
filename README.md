@@ -28,9 +28,13 @@ I'm already happy if you're using this open-source project to learn something ne
 
 If you'd like to support the time and effort that goes into building and improving MoneyCommons, you can leave a small tip on Ko-fi:
 
-<a href="https://ko-fi.com/blackpanda93">
-  <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=6" alt="Support MoneyCommons on Ko-fi" width="180">
-</a>
+<p align="center">
+  <a href="https://ko-fi.com/blackpanda93">
+    <img src="assets/support-moneycommons.png"
+         alt="Support MoneyCommons with a little tip"
+         width="300">
+  </a>
+</p>
 
 Every little bit helps me keep building this project and making it better for everyone.
 
