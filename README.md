@@ -98,16 +98,6 @@ Always do your own research and consider speaking with a qualified professional 
 
 ---
 
-## 🐼 Support MoneyCommons
 
-Free education should remain accessible.
-
-If this project helps you, **using it is already support enough**.
-
-If you really want to say thank you, you can leave a small tip:
-
-<a href="https://ko-fi.com/blackpanda93">
-  <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=6" alt="Support MoneyCommons on Ko-fi" width="180">
-</a>
 
 **Thank you for helping keep MoneyCommons free and open source. 💚🐼**
