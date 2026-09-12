@@ -128,4 +128,9 @@ A simple, practical way to see where your money goes, understand your spending, 
 
 No account required. No complicated setup. Just start learning about your own money. 🐼💚
 
+This is just **Step 1** — a simple place to track your money and understand where it is going.
+
+You don't need to save, invest or change everything today.
+
+> 🐼 **Let's break the cycle of debt.
 ---
