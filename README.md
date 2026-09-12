@@ -30,7 +30,7 @@ If you'd like to support the time and effort that goes into building and improvi
 
 <p align="center">
   <a href="https://ko-fi.com/blackpanda93">
-    <img src="assets/support-moneycommons.png"
+    <img src="support-moneycommons.png"
          alt="Support MoneyCommons with a little tip"
          width="300">
   </a>
